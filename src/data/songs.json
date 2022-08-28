@@ -1342,21 +1342,5 @@
         }
       ]
     }
-  },
-  {
-    "name": "Origin",
-    "author": "TheFatRat",
-    "url": "https://r1---sn-8qj-8j5lz.googlevideo.com/videoplayback?expire=1661594770&ei=MpgJY8ObI96c4t4PvLGMwAk&ip=154.26.128.250&id=o-AIwZzOXJ3Fh_ZpdBPt_n4hTCV3jyMxUzff9EIr2T_gbv&itag=139&source=youtube&requiressl=yes&vprv=1&mime=audio%2Fmp4&gir=yes&clen=743087&dur=121.626&lmt=1577611802411334&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgOiEsAPKYtO4MA4StBEj6hsNLtoX5gBKs6Au2pLMKA7kCIFizmAjvxARbM7qkMvFb--u4qAN47ILv9bh4tXiwohor&cms_redirect=yes&mh=Zp&mip=2001:ee0:5716:4820:95f5:6fd9:dc7c:826&mm=31&mn=sn-8qj-8j5lz&ms=au&mt=1661584146&mv=m&mvi=1&pcm2cms=yes&pl=44&lsparams=mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl&lsig=AG3C_xAwRAIgHidpmQOtaLo0jvsjKt5Jla3o-4W3M-rWJlkVQkqEIWICIH5cibFr1_PzAmP8cCtAwo5scoAovLYDtd6lemr-ojuU",
-    "id": 84,
-    "links": {
-      "images": [
-        {
-          "url": "https://avatar-ex-swe.nixcdn.com/song/2018/11/10/8/d/3/a/1541827915600_640.jpg"
-        },
-        {
-          "url": "https://avatar-ex-swe.nixcdn.com/song/2018/11/10/8/d/3/a/1541827915600_640.jpg"
-        }
-      ]
-    }
   }
 ]
